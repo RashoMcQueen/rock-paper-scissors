@@ -1,0 +1,33 @@
+.container {
+  border: 3px solid red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  /* min-height: 75vh; */
+}
+
+button {
+  font-size: 25px;
+  height: 80px;
+  width: 160px;
+}
+
+.resultat {
+  border: 3px solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  height: 30px;
+}
+
+.score {
+  border: 3px solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bold;
+  height: 30px;
+}
